@@ -25,3 +25,5 @@ async def wassup(ctx):
 
 # Run the bot with the provided token
 bot.run(TOKEN)
+
+#about a a screeenshot use those setting to avoid problems
